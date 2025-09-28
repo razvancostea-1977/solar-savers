@@ -1,0 +1,5 @@
+{
+  "name": "Solar Savers",
+  "description": "A 3D first-person space shooter game built with React and Three.js. Navigate your ship through a star-filled environment as the foundation for an epic space adventure.",
+  "requestFramePermissions": []
+}
